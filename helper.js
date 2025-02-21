@@ -1,0 +1,1 @@
+export const roundValue = (num) => parseFloat(num.toPrecision(10));
